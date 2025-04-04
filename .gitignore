@@ -1,1 +1,17 @@
-app.py
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local files
+.DS_Store
